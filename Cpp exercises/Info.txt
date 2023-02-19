@@ -1,1 +1,1 @@
-En esta carpeta irán todos los ejercicios y su documentación que realice en el lenguaje de programación Cpp
+All exercises and their documentation completed in the C++ programming language will be stored in this folder
