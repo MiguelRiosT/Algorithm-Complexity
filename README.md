@@ -2,7 +2,7 @@
 
 To see the exercises done throughout the semester, you can access each one of them by entering the following folders:
 
-[Python Excercises](https://github.com/MiguelRiosT/Complejidad-Algoritmos/tree/main/Ejercicios%20en%20Python)
+[Python Excercises](https://github.com/MiguelRiosT/Algorithm-Complexity/tree/main/Python%20exercises)
 
 [C++ Excercises](https://github.com/MiguelRiosT/Algorithm-Complexity/tree/main/Cpp%20exercises)
 
