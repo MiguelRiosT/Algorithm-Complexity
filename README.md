@@ -1,4 +1,4 @@
-# Algorithm Complexity - Documentation and exercises
+# 
 
 To see the exercises done throughout the semester, you can access each one of them by entering the following folders:
 
@@ -11,3 +11,14 @@ To see the exercises done throughout the semester, you can access each one of th
 There you will find all the code documented and the completion of the exercises
 
 
+# Algorithm Complexity - Documentation and exercises
+
+- [Python Excercises](https://github.com/MiguelRiosT/Algorithm-Complexity/tree/main/Python%20exercises)
+  - [PacMan2451]()
+  - [.]()
+- [C++ Excercises](https://github.com/MiguelRiosT/Algorithm-Complexity/tree/main/Cpp%20exercises)
+  - [.]()
+  - [.]()
+- [Excercises during class](https://github.com/MiguelRiosT/Algorithm-Complexity/tree/main/Exercises%20during%20class)
+  - [.]()
+  - [.]()
