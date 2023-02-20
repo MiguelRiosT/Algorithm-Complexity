@@ -13,6 +13,6 @@ In this index will find all the code documented and the completion of the exerci
   - [.]()
 
 - [Excercises during class](https://github.com/MiguelRiosT/Algorithm-Complexity/tree/main/Exercises%20during%20class)
-  - [.]()
+  - [Perfect Square](https://github.com/MiguelRiosT/Algorithm-Complexity/tree/main/Exercises%20during%20class/Perfect%20square)
   - [.]()
 
