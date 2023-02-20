@@ -8,7 +8,7 @@ In this index will find all the code documented and the completion of the exerci
 - [C++ Excercises](https://github.com/MiguelRiosT/Algorithm-Complexity/tree/main/Cpp%20exercises)
   - [.]()
   - [.]()
-- [Java Exercises](https://github.com/MiguelRiosT/Algorithm-Complexity/tree/main/Exercises%20during%20class)
+- [Java Exercises](https://github.com/MiguelRiosT/Algorithm-Complexity/tree/main/Java%20exercises/Test)
   - [.]()
   - [.]()
 
