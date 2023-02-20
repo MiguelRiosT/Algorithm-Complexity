@@ -3,8 +3,8 @@
 In this index will find all the code documented and the completion of the exercises done throughout the semester
 
 - [Python Excercises](https://github.com/MiguelRiosT/Algorithm-Complexity/tree/main/Python%20exercises)
-  - [PacMan2451](https://github.com/MiguelRiosT/Algorithm-Complexity/tree/main/Python%20exercises/PacMan2451)
-  - [Thermostat](https://github.com/MiguelRiosT/Algorithm-Complexity/tree/main/Python%20exercises/Thermostat)
+  - [PacMan - 2451 - Beecrowd](https://github.com/MiguelRiosT/Algorithm-Complexity/tree/main/Python%20exercises/PacMan2451)
+  - [Thermostat - 1759C - Codeforces](https://github.com/MiguelRiosT/Algorithm-Complexity/tree/main/Python%20exercises/Thermostat)
   - []()
   - []()
 - [C++ Excercises](https://github.com/MiguelRiosT/Algorithm-Complexity/tree/main/Cpp%20exercises)
