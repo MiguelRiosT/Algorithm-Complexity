@@ -1,32 +1,32 @@
 board_size = int(input()) #Request to the user for an integer number  
 board = [] 
-for i in range(board_size): #Itera n veces para ingresar las filas del tablero
+for i in range(board_size): #Iterate n times to enter the rows of the board
     while True:
         row = input()
-        #Si la fila no tiene el tamaño correcto no permite ingresar la fila
+        #If the row does not have the correct size, it does not allow the row to be entered
         if len(row) != board_size:
             print()
-        #Si la fila contiene el tamaño correcto la ingresa a la matrix
+        #If the row contains the correct size, it enters it into the matrix
         else:
             break
     board.append(list(row))
-#Obtain the size of the board y define las variables de puntaje inicialmente en 0
+#Obtain the size of the board and Define the score variables initially to 0
 size = len(board)
 max_counter = 0
 counter = 0
 
+#Define PacMan's path while keeping track of the moment where it obtains the highest amount of food
 for i in range(size):
-    #Si la fila es par, itera sobre las columnas de izquierda a derecha
-            if i % 2 == 0: #itera sobre las columnas de izquierda a derecha
+            if i % 2 == 0: 
                 for j in range(size):
                     if board[i][j] == "o":
-                        counter += 1
+                        counter += 1 # Add food when seeing an 'o'
                         if counter > max_counter:
                             max_counter = counter
-                    elif board[i][j] == "A":
+                    elif board[i][j] == "A":# Loose food when seeing an 'A'
                         counter = 0
-            else: #itera sobre las columnas de derecha a izquierda
-                for j in range(size-1,-1,-1): # iterar sobre una secuencia de valores en orden inverso iniciando en size-1
+            else: 
+                for j in range(size-1,-1,-1): # Iterate over a sequence of values in reverse order starting at size-1
                     if board[i][j] == "o":
                         counter += 1
                         if counter > max_counter:
