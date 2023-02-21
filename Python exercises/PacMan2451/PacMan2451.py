@@ -34,3 +34,4 @@ for i in range(size):
                     elif board[i][j] == "A":
                         counter = 0
 print(f"{max_counter}")
+
