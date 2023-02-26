@@ -1,1 +1,12 @@
 Hello again!
+You can see that SegundoIntentoTermostato is very similar 
+to TermostatomadebyVladosiya and the page only accept Vladosiya
+
+ThermostatEXTENDED is in progress I need to improve the range 
+for l,r,x and a,b 
+
+This night i'll try to write all my challenges in order and 
+write all the logic to get correct OUTPUT
+
+PrimerIntentoTermistato work efficiently and generetes the 
+OUTPUT in vertical line
