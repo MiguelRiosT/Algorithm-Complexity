@@ -1,60 +1,32 @@
-Thermostat      
+Problem - 1759C - Codeforces
 
-Alguien reconfiguró el antiguo termostato a una temperatura de "a"
+In the exercise we are given the variables:
+L,r,x  where L,r are the range of temperature and 
+x is the minimum temperature change 
+a,b -->(initial temperature, final temperature)
 
-El termostato solo puede ser ajustado a una temperatura 
-de l a r
-La temperatura no puede cambiar a menos de x
+We need to find the minimum number of operations required 
+to get temperature b from temperature a, or say that it is impossible
 
-Formalmente, en una sola operación se puede reconfigurar el termostato desde temperatura a
- a la temperatura b solamente si esto sucede
- si  |a−b|≥x and l≤b≤r
+The inputs are as follows:
+10
+3 5 6 
+3 3
 
-Te dan 
--l
--r 
--x
--a y b
+Note: 
+10 --> t Test cases
+3 5 6 --> l,r,x
+3 3 --> a,b
 
-Encuentre el número mínimo de operaciones 
-requeridas para obtener la temperatura b de la temperatura a
-o decir que es imposible.
-
-
-//////////////////////////INPUT!//////////////////////////
-1.La primera línea de datos de entrada contiene el único entero t
-    dicho t presenta 
-    (1≤t≤10^4) --> el número de casos de prueba en la prueba.
-
-TEST CASES 
-1.La primera línea de cada caso contiene tres números enteros l,r y x
-(−10^9≤l≤r≤10^9, 1≤x≤10^9) --> rango de temperatura y cambio mínimo de temperatura
-
-2.La segunda línea de cada caso contiene dos enteros a y b
-(l≤a,b≤r) -->  las temperaturas inicial y final.
-
-//////////////////////////OUTPUT!//////////////////////////
-Salida t números, cada uno de los cuales es la respuesta al caso de prueba correspondiente. Si es imposible alcanzar la temperatura b
-,mostrar -1, de lo contrario, mostrar el número mínimo de operaciones.
-
-
-INPUT SAMPLE
-10 --> ***t*** --> (1≤t≤10^4) --> el número de casos de prueba en la prueba.
-3 5 6 --> ***l,r,x*** -->(−10^9≤l≤r≤10^9, 1≤x≤10^9) --> rango de temperatura y cambio mínimo de temperatura
-3 3 --> ***a,b*** --> (l≤a,b≤r) -->  las temperaturas inicial y final.
-
-
-0 15 5 -->test 2 you can achieve the desired temperature as follows: 4→10→5
-4 5
-
-0 10 5 -->test 3you can achieve the desired temperature as follows: 3→8→2→7
-3 7
-
-3 5 6 -->test 4 imposible
-3 4
-
-OUTPUT SAMPLE
-0
+The output should be like this:
+0 
 2
 3
 -1
+1
+-1
+3
+1
+3
+-1
+
