@@ -17,7 +17,9 @@ why and when to throw a 0, 1, 2, 3 or -1
 Here the explain:
 0 --> is when a == b, which means that the thermostat is already set correctly.
 
-1 -->
+1 --> How did I deduce that the thermostat only needed one operation?
+Analyze test cases 5 and 8 that present this output and using this |a−b| ≥ x L ≤ b ≤ r 
+By substituting the values ​​we observe that |a−b| ≥ x is always true
 
 2 -->
 
