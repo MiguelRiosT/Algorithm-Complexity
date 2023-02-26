@@ -1,3 +1,12 @@
+   .--.
+  _|__|_   °C   Is it cold or hot outside?
+ |      | |     
+ |  o o | |
+ |   -  | |     
+ |______|_| 
+    |||| 
+ 
+    
 Problem - 1759C - Codeforces
 
 In the exercise we are given the variables:
@@ -29,4 +38,3 @@ The output should be like this:
 1
 3
 -1
-
