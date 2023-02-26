@@ -1,12 +1,15 @@
+°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C
    .--.
-  _|__|_   °C   Is it cold or hot outside?
- |      | |     
- |  o o | |
+  _|__|_   °C   
+ |      | |                     Thermostat!
+ |  o o | |                     Is it cold or hot outside?
  |   -  | |     
  |______|_| 
     |||| 
- 
-    
+°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C
+
+
+
 Problem - 1759C - Codeforces
 
 In the exercise we are given the variables:

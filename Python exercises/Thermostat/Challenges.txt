@@ -1,14 +1,15 @@
-Hello again!
+°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C
    .--.
-  _|__|_   °C   Is it cold or hot outside?
- |      | |     
- |  o o | |
+  _|__|_   °C   
+ |      | |                     Thermostat!
+ |  o o | |                     Is it cold or hot outside?
  |   -  | |     
  |______|_| 
     |||| 
+°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C
 
-    
-       
+Hello again! - Here are the challenges!       
+
 In the instructions it is shown how the output of the code should be:
 0 
 2
