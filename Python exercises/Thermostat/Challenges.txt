@@ -45,7 +45,12 @@ ImageChallengeOutput2
 
 
 3 -->
+in this case we need to have previously evaluated output 1 and 2 then we need to do the following things:
+r - b >= x and a - L >= x or r - a >= x and b - L >= x
 
+If you have any doubts about this process, you can look in the Thermostat folder of my repository
+the following images:
+ImageChallengeOutput3
 
 
 -1 --> When it is impossible to obtain the temperature in any of the above ways

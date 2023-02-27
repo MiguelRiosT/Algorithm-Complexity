@@ -1,3 +1,7 @@
+"""
+This is another way to do Thermostat exercise
+"""
+
 #Number of test cases
 while True:
     try:
