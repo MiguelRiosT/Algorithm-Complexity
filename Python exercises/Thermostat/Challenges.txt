@@ -32,8 +32,8 @@ Analyze test cases 5 and 8 that present this output and using this |a−b| ≥ x
 By substituting the values ​​we observe that |a−b| ≥ x is always true
 
 2 -->
-If we subtract the maximum temperature between a and b from the maximum range (r) a
-nd this value is greater than or equal to the minimum value x 
+If we subtract the maximum temperature between a and b from the maximum range (r) 
+and this value is greater than or equal to the minimum value x 
 we ​​will have an output of 2
 Otherwise, if this is not true, we use OR to do the same, only now with the minimum values ​​instead of the maximum.
 Here the equations to evaluate:
