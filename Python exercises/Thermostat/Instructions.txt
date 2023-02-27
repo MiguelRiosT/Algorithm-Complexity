@@ -12,6 +12,12 @@
 
 Problem - 1759C - Codeforces
 
+The thermostat can only be set to a temperature from l to r
+inclusive, the temperature cannot change by less than x.
+Formally, in one operation you can reconfigure the thermostat from temperature a to temperature b
+if |a−b|≥x and l≤b≤r
+
+
 In the exercise we are given the variables:
 L,r,x  where L,r are the range of temperature and 
 x is the minimum temperature change 

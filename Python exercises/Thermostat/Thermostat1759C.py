@@ -15,7 +15,7 @@ for i in range(t):
     L, r, x = map(int, input().split()) #Allows inputs to be entered like this: 3 5 6
     a, b = map(int, input().split()) 
     if a == b: #Thermostat is already set up correctly
-        output.append(0)# Add the number of operations required in the output list 
+        output.append(0)#Adds the number of operations required in the output list 
     elif abs(a-b) >= x:
         output.append(1) 
     elif r - max(a, b) >= x or min(a, b) - L >= x:

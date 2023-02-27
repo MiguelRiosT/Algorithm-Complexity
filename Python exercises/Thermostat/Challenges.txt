@@ -32,7 +32,19 @@ Analyze test cases 5 and 8 that present this output and using this |a−b| ≥ x
 By substituting the values ​​we observe that |a−b| ≥ x is always true
 
 2 -->
+If we subtract the maximum temperature between a and b from the maximum range (r) a
+nd this value is greater than or equal to the minimum value x 
+we ​​will have an output of 2
+Otherwise, if this is not true, we use OR to do the same, only now with the minimum values ​​instead of the maximum.
+Here the equations to evaluate:
+r-max(a,b)>=x OR l-min(a,b)>=x
 
 3 -->
 
+
 -1 --> When it is impossible to obtain the temperature in any of the above ways
+Note for -1:
+If you considered the option of defining -1 with the following equation only |a−b| ≥ x
+Let me tell you that I also considered it but found that in the test cases with output 2,3
+the equation |a−b| ≥ x presents the same result booleand that is FALSE
+For this reason if we use only |a−b| ≥ x to define output -1 we will have inconsistencies with outputs 2 and 3
