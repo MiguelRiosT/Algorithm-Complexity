@@ -1,3 +1,18 @@
+"""
+Problem - 2451 - Beecrowd
+Code made by Miguel Rios Tangarife
+
+PacMan wants to eat a lot of points 'o' 
+but if PacMam meets with a ghost 'A' 
+the ghost steals all his points from pacman
+
+In this game you are playing on a board represented by a square matrix
+'.' mean an empty space from the board
+
+Pacman moves through the matrix in a zigzag pattern starting at the top left corner 
+This code tells us how much food pacman collected on his journey!
+
+"""
 board_size = int(input()) #Request to the user for an integer number  
 board = [] 
 for i in range(board_size): #Iterate n times to enter the rows of the board
