@@ -1,4 +1,5 @@
-Hello again!
+Hello again! 
+Exercise 2451 from the beecrowd website
      ,--.    ,--.         
     |oo  | _  \  `.       
 o  o|~~  |(_) /   ;    		  
@@ -7,8 +8,7 @@ o  o|~~  |(_) /   ;
 After doing the code notice the following:
 
 -The code took me about 5-6 hours
+-At first I had difficulties understanding how to create the square matrix, but more specifically how pacman traverses it.
 This is because I hadn't been programming in python for a long time and some concepts such as arrays and the way to go through them had to be reviewed again.
-
 Leaving this aside, the code can be done in a few lines, but if you want to introduce more "security" and stability in the inputs, it takes a little more time and code.
-
 You can see my other way of approaching the code with functions in python and with another way of approaching the inputs in the file called PacMan2451EXTENDED
