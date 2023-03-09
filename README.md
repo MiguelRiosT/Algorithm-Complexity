@@ -5,6 +5,7 @@ In this index will find all the code documented and the completion of the exerci
 - [Python Excercises](https://github.com/MiguelRiosT/Algorithm-Complexity/tree/main/Python%20exercises)
   - [PacMan - 2451 - Beecrowd](https://github.com/MiguelRiosT/Algorithm-Complexity/tree/main/Python%20exercises/PacMan2451)
   - [Thermostat - 1759C - Codeforces](https://github.com/MiguelRiosT/Algorithm-Complexity/tree/main/Python%20exercises/Thermostat)
+  - [Angry Ducks - 1163 - Beecrowd]()
   - []()
   - []()
 - [C++ Excercises](https://github.com/MiguelRiosT/Algorithm-Complexity/tree/main/Cpp%20exercises)
