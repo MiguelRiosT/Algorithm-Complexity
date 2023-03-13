@@ -18,7 +18,7 @@ pi= 3.14159
 
 def max_distance(alpha, v):
     alpha = math.radians(alpha)  
-    d = ((v**2) * math.sin(2*alpha)) / g  
+    d = ((v**2) * math.sin(2*alpha)) / g  #for y=0 when h final is 0
     return d
 
 h = float(input())#height
