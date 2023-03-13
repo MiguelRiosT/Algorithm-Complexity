@@ -42,9 +42,9 @@ def cos(x):
 
 def max_distance(h, alpha, v):
     alpha = alpha * pi / 180
-    d = ((v**2) * (2 * sin(alpha) * cos(alpha))) / g
-    h += d * cos(alpha)
-    return h, d
+    d = ((v**2) * sin(2*alpha)) / g #for y=0 when h final is 0
+    x = d+h
+    return x
 
 
 h = float(input())
@@ -56,7 +56,7 @@ outputs = []
 
 for i in range(n):
     alpha, v = map(float, input().split())
-    h_proj, d_proj = max_distance(h, alpha, v)
+    d_proj = max_distance(h, alpha, v)
 
     if p1 <= d_proj <= p2:
         outputs.append("{:.5f} -> DUCK".format(d_proj))
