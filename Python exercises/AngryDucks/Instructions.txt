@@ -1,2 +1,12 @@
 Hello 
 1163 Exercise
+Nlogony city and Ducklogony city are in war
+Ducknese people make a slingshot and ask you to say if with the correct values they will hit the Nloogny city
+Slingshot! 
+h --> height
+p1 --> points wehere the Nlogony city begins 
+p2 --> points wehere the Nlogony city ends
+a -->the shooting angle in grades
+v -->launching speed
+we assume the following values g=9.80332 and n=3.14159
+we need to calculate if the projectile will hit the target

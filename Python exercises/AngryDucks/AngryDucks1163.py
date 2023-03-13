@@ -7,28 +7,32 @@ Slingshot!
 h --> height
 p1 --> points wehere the Nlogony city begins 
 p2 --> points wehere the Nlogony city ends
-a -->the shooting angle
+a -->the shooting angle in grades
 v -->launching speed
 we assume the following values g=9.80332 and n=3.14159
 we need to calculate if the projectile will hit the target
 """
-
-#Definamos las constantes
+import math
 g= 9.80665
 pi= 3.14159
 
-#Calculos matematicos
+def max_distance(alpha, v):
+    alpha = math.radians(alpha)  
+    d = ((v**2) * math.sin(2*alpha)) / g  
+    return d
 
+h = float(input())#height
+p1, p2 = map(int, input().split()) #Begins and Ends distance
+n = int(input())# Number of try
+outputs = []
 
-#Pedimos las primeras lineas
-h = float(input())
-p1,p2 = map(int, input().split())
-n= int(input())
-
-#En el for vamos a calcular si es NUCK O DUCK
 for i in range(n):
-    #pedimos las otras dos variables que faltan
-    a, v = map(float, input().split())
+    alpha, v = map(float, input().split())#angle and speed
+    d_proj = max_distance(alpha, v)
+    if p1 <= d_proj <= p2:
+        outputs.append("{:.5f} -> DUCK".format(d_proj))
+    else:
+        outputs.append("{:.5f} -> NUCK".format(d_proj))
 
-
+print("\n".join(outputs))
 
