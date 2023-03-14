@@ -26,7 +26,6 @@ h = float(input())#height
 p1, p2 = map(int, input().split()) #Begins and Ends distance
 n = int(input())# Number of try
 outputs = []
-
 for i in range(n):
     alpha, v = map(float, input().split())#angle and speed
     d_proj = max_distance(h, alpha, v)

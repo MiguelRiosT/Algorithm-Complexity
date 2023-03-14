@@ -39,7 +39,6 @@ def cos(x):
         result += sign * coeff / fact
     return result
 
-
 def max_distance(h, alpha, v):
     alpha = alpha * pi / 180
     d = ((v**2) * sin(2*alpha)) / g #for y=0 when h final is 0
