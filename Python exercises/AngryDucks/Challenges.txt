@@ -4,3 +4,5 @@ The main challenge is to know how to calculate the distance
 AND
 Do the code without math librarie - I tried to do the exercise without math
 You cansee two versions in my repo, one with math and other without math
+
+
