@@ -1,7 +1,7 @@
-                                        ,-- .    ,--.         
-                                        |oo  | _  \  `.       
-                                    o  o|~~  |(_) /   ;    		  
-                                        |/\/\|   '._,'  
+                                        ,-- .       ,--.         
+                                        |oo  |   _   \  `.       
+                                    o  o|~~  |  (_)  /   ;    		  
+                                        |/\/\|      '._,'  
                                         
 Hello again! 
 Exercise 2451 from the beecrowd website
