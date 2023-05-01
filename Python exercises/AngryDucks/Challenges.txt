@@ -1,8 +1,20 @@
 Hello again! 
+
+   _             _
+--(°)<  CUAK!  >(°)--
+\___)            (___/
+
+
+-The code took me about 4-5 hours
 Exercise 1163 from the beecrowd website
 The main challenge is to know how to calculate the distance
-AND
-Do the code without math librarie - I tried to do the exercise without math
-You cansee two versions in my repo, one with math and other without math
+
+In my repo I have three version of this code:
+This is because I wanted to try to make the code with the math(AngryDucks1163) library and without it(AngryDucks1163WithoutMath)
+-But for both codes the challenge is to achieve very precise values
+
+The code that was accepted by beecrowd was AngryDucksACCEPTED
+This is because we use very precise indications and the math library
+
 
 
