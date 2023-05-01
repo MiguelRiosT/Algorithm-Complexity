@@ -26,6 +26,7 @@ def previous_perfect_square():
         i += 1
     i -= 1
     print("The previous perfect square of m = ", m, "is", i*i)
+    print(i**2,"is ",i,"*",i)
 
 perfect_square()
 previous_perfect_square()

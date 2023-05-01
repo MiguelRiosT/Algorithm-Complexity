@@ -11,7 +11,7 @@ def perfect_square():
     print("PERFECT SQUARE?")
     m = int(input("m: "))
     square_root=math.sqrt(m)
-    if square_root**2 == m:
+    if round(square_root)**2 == m:
         print("IS A PERFECT SQUARE")
     else:
         print("IS NOT A PERFECT SQUARE")
@@ -22,6 +22,7 @@ def previous_perfect_square():
      n = math.sqrt(m)   
      rounding = math.floor(n)
      print("The previous perfect square of m = ",m, "is ", rounding**2)
+     print(rounding**2,"is ",rounding,"*",rounding)
 
 perfect_square()
 previous_perfect_square()

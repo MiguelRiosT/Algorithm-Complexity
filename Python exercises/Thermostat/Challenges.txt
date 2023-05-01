@@ -11,7 +11,8 @@ Hello again!
 Problem - 1759C - Codeforces
 
 Challenges:
-      
+
+-This code took me about 7 hours   
 
 In the instructions it is shown how the output of the code should be:
 0 
