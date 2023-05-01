@@ -1,11 +1,12 @@
                                        _             _
                                     --(°)<  CUAK!  >(°)--
-                                    \___)            (___/
+                                    \___)           (___/
 
 Hello again! 
 Exercise 1163 from the beecrowd website
 
 Challenges:
+
 -The code took me about 4-5 hours
 The main challenge is to know how to calculate the distance
 
