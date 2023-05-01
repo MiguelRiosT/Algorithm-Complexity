@@ -1,12 +1,12 @@
+                                        ,-- .    ,--.         
+                                        |oo  | _  \  `.       
+                                    o  o|~~  |(_) /   ;    		  
+                                        |/\/\|   '._,'  
+                                        
 Hello again! 
 Exercise 2451 from the beecrowd website
-     ,--.    ,--.         
-    |oo  | _  \  `.       
-o  o|~~  |(_) /   ;    		  
-    |/\/\|   '._,'  
 
-After doing the code notice the following:
-
+Challenges:
 -The code took me about 5-6 hours
 -At first I had difficulties understanding how to create the square matrix, but more specifically how pacman traverses it.
 This is because I hadn't been programming in python for a long time and some concepts such as arrays and the way to go through them had to be reviewed again.

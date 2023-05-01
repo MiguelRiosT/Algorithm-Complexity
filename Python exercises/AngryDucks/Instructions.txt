@@ -5,6 +5,8 @@
 Hello again! 
 Exercise 1163 from the beecrowd website
 
+Instructions:
+
 Nlogony city and Ducklogony city are in war
 Ducknese people make a slingshot and ask you to say if with the correct values they will hit the Nloogny city
 Slingshot! 

@@ -1,8 +1,15 @@
-PacMan says hello to you! - Exercise 2451 from the beecrowd website
+                                         ,-- .    ,--.         
+                                        |oo  | _  \  `.       
+                                    o  o|~~  |(_) /   ;    		  
+                                        |/\/\|   '._,'  
+                                        
+Hello again! 
+Exercise 2451 from the beecrowd website
+
+Instructions:
 
 This program needs an integer value from the user which will be used to create a square matrix
 Also
-
 PacMan movement:
 PacMan starts in the upper left corner runs to the right and down one position, then moves from right to left and repeats this pattern.
 
@@ -24,10 +31,3 @@ ooo
 
 Output Sample:
 4
-
-
-Good luck for all!
-     ,--.    ,--.         
-    |oo  | _  \  `.       
-o  o|~~  |(_) /   ;      
-    |/\/\|   '._,'        
