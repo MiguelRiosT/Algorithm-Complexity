@@ -38,3 +38,4 @@ while True:
             print("{:.5f} -> DUCK".format(final_position_X)) if start_point < final_position_X < end_point else print("{:.5f} -> NUCK".format(final_position_X))
     except EOFError:
         break
+    
