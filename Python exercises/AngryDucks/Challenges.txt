@@ -1,12 +1,12 @@
-Hello again! 
+                                       _             _
+                                    --(°)<  CUAK!  >(°)--
+                                    \___)            (___/
 
-   _             _
---(°)<  CUAK!  >(°)--
-\___)            (___/
+Hello again! 
+Exercise 1163 from the beecrowd website
 
 
 -The code took me about 4-5 hours
-Exercise 1163 from the beecrowd website
 The main challenge is to know how to calculate the distance
 
 In my repo I have three version of this code:
