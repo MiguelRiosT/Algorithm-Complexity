@@ -1,4 +1,14 @@
 """
+Problem - 1759C - Codeforces
+Code made by Miguel Rios Tangarife
+In this problem we have an old thermostat and we need to find the minimum number of operations required 
+to get temperature b from temperature a, or say that it is impossible
+
+In the exercise we are given the variables:
+L,r,x  where L,r are the range of temperature and 
+x is the minimum temperature change 
+a,b -->(initial temperature, final temperature)
+
 This is another way to do Thermostat exercise
 """
 

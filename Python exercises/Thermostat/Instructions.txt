@@ -1,16 +1,16 @@
-°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C
-   .--.
-  _|__|_   °C   
- |      | |                     Thermostat!
- |  o o | |                     Is it cold or hot outside?
- |   -  | |     
- |______|_| 
-    |||| 
-°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C°C
 
+                             .--.
+                            _|__|_   °C   
+                           |      | |         Thermostat!
+                           |  o o | |         Is it cold or hot outside?
+                           |   -  | |     
+                           |______|_| 
+                              |||| 
 
-
+Hello again! 
 Problem - 1759C - Codeforces
+
+Instructions:
 
 The thermostat can only be set to a temperature from l to r
 inclusive, the temperature cannot change by less than x.
