@@ -22,7 +22,7 @@ def previous_perfect_square():
     print("What is the previous perfect square of m?")
     m = int(input("m: "))
     i = 1
-    while i*i < m:
+    while i*i <= m:
         i += 1
     i -= 1
     print("The previous perfect square of m = ", m, "is", i*i)
