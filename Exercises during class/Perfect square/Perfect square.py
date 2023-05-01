@@ -1,25 +1,27 @@
-#Perfect square
-#To determine if a user-input m is a perfect square
+"""
+Exercises during class
+Code made by Miguel Rios Tangarife
+
+We want to determine whether an integer entered through the console is a perfect square. 
+If it is not, then it is not a perfect square. 
+Additionally, we want to find the previous perfect square.
+"""
 import math
-
 def perfect_square():
-    print("PERFECT SQUARE")
+    print("PERFECT SQUARE?")
     m = int(input("m: "))
-    square_root=math.sqrt(m)#Take the square root of m
-
-    if square_root**2 == m:#Square the variable square_root and compare with m
-        print("Is a perfect square")
+    square_root=math.sqrt(m)
+    if square_root**2 == m:
+        print("IS A PERFECT SQUARE")
     else:
-        print("Is not a perfect square")
+        print("IS NOT A PERFECT SQUARE")
 
-#Previous perfect square
 def previous_perfect_square():
-     print("PREVIOUS PERFECT SQUARE")
+     print("What is the previous perfect square of m?")
      m = int(input("m: "))
      n = math.sqrt(m)   
-     rounding = math.floor(n)#Round down
-     print("The previous perfect square is: ")
-     print(rounding)
+     rounding = math.floor(n)
+     print("The previous perfect square of m = ",m, "is ", rounding**2)
 
 perfect_square()
 previous_perfect_square()
